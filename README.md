@@ -1,5 +1,5 @@
 # AddNet
-This project provides codes for "A Scalable Additive Intensity Model for Temporal Networks with Multi-Order Node Heterogeneity"
+This project provides codes for "A Scalable Additive Intensity Model for Temporal Networks with Multi-Order Node Heterogeneity" by Zeng Min, Wang Qiyu, Xu Jinfeng, Ying Zhiliang and Zhang Hong
 
 - test_simu_1.R: Simulation Case 1 in Section 5
 - test_simu_2.R: Simulation Case 2 in Section 5
